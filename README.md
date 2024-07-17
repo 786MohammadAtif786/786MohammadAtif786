@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Book App](https://github.com/786MohammadAtif786/Book-App)
 
-- 🌱 I’m currently learning **nestjs**
+- 🌱 I’m currently learning **NESTJS**
 
 - 👯 I’m looking to collaborate on [Bionek pharma](https://bionek.web.app/about.html)
 
 - 🤝 I’m looking for help with [Blog app](https://github.com/786MohammadAtif786/blog-app-sequelize)
 
-- 💬 Ask me about **javascript, nodejs**
+- 💬 Ask me about **JAVASCRIPT, NODEJS**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1HLYGD9LeGKDZD8Ul7146OvJYrVWKD9sK/view?usp=drive_link
 
 - ⚡ Fun fact **I think I am funny**
 
