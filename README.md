@@ -15,13 +15,13 @@
 
 - 💬 Ask me about **JAVASCRIPT, NODEJS**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1HLYGD9LeGKDZD8Ul7146OvJYrVWKD9sK/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/drive/home
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd.atif81999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd.atif81999@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohdatif81999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd.atif81999@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/786atif786@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="786atif786@gmail.com" height="30" width="40" /></a>
 </p>
 
