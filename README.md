@@ -48,14 +48,6 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohd-atif-034b67162/" target="_Next">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:mohd.atif81999@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/mohd-atif-034b67162/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
