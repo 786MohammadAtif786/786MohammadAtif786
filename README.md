@@ -1,33 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mohammad Atif</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# Hi 👋, I'm Mohammad Atif  
 
-<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+🚀 A passionate **Software Developer** from India  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=786mohammadatif786&label=Profile%20views&color=0e75b6&style=flat" alt="786mohammadatif786" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Atif-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/your-link) 
+[![Gmail Badge](https://img.shields.io/badge/-atif.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atif.dev@gmail.com)](mailto:atif.dev@gmail.com) 
+[![GitHub followers](https://img.shields.io/github/followers/786MohammadAtif786?label=Follow&style=social)](https://github.com/786MohammadAtif786)
 
-- 🔭 I’m currently working on [Book App](https://github.com/786MohammadAtif786/Book-App)
+---
 
-- 🌱 I’m currently learning **NESTJS**
+## 🌟 About Me  
+- 🔭 I’m currently working on **Book App**  
+- 🌱 I’m currently learning **NestJS**  
+- 🤝 I’m looking to collaborate on **Open Source Projects**  
+- 💬 Ask me about **JavaScript, Node.js**  
+- ⚡ Fun fact: *I think I am funny* 😁  
 
-- 👯 I’m looking to collaborate on [Bionek pharma](https://bionek.web.app/about.html)
+---
 
-- 🤝 I’m looking for help with [Blog app](https://github.com/786MohammadAtif786/blog-app-sequelize)
-
-- 💬 Ask me about **JAVASCRIPT, NODEJS**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/file/d/1HLYGD9LeGKDZD8Ul7146OvJYrVWKD9sK/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohd-atif-034b67162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd.atif81999@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/786atif786@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="786atif786@gmail.com" height="30" width="40" /></a>
+## 🛠️ Languages and Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,mysql,html,css,aws,linux,git,github,vscode,vue" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=786mohammadatif786&show_icons=true&locale=en&layout=compact" alt="786mohammadatif786" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=786MohammadAtif786&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=786MohammadAtif786&layout=compact&theme=radical" height="160"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=786mohammadatif786&show_icons=true&locale=en" alt="786mohammadatif786" /></p>
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=786MohammadAtif786&theme=radical&border_radius=5" alt="streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=786MohammadAtif786&theme=radical&no-frame=true&margin-w=5&margin-h=5"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=786MohammadAtif786&theme=react-dark"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🚀 [Book App](https://github.com/786MohammadAtif786/book-app)  
+- 🏥 [Bionek Pharma](https://github.com/786MohammadAtif786/bionek-pharma)  
+- 📚 More projects coming soon...  
+
+---
+
+⭐️ From [Mohammad Atif](https://github.com/786MohammadAtif786)
